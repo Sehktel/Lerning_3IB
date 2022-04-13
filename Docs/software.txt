@@ -1,0 +1,23 @@
+PostgreSQL
+gradle
+C++ (Java to C++ Артюшенков Артем)
+git
+hg
+kallithea 
+jenkins
+mantis
+grafana
+gpg
+werf*
+kafka
+borg
+ansible (python)
+matermost (VM)
+snort (suricata)
+NGFW (анализ трафика -- цепляется для визуализация фильтрации трафика)
+Zabix
+syslog-ng (rsyslog)
+keycloak (docker)
+CRI-O (*)
+gPRC https://grpc.io/
+SAST DAST IAST RAST (думать) (cppcheck)
