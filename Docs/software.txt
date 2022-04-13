@@ -23,4 +23,5 @@ gPRC https://grpc.io/
 SAST DAST IAST RAST (думать) (cppcheck)
 
 RBAC -- Role Base Access Control (надо подумать)
-	
+
+test
